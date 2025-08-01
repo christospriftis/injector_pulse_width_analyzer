@@ -1,0 +1,6 @@
+original,new
+General: Engine speed (G28),RPM
+Emission reduction (secondary air injection: Mass air flow sensor (G70),MAF_gps
+Lambda control (lambda sensor voltages): Lambda control bank 1 (specified),AFR_specified
+General: Injection timing,IPW_ms
+General: Intake manifold pressure (G71),MAP
